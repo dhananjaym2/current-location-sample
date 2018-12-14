@@ -1,0 +1,19 @@
+
+Y
+)app/src/main/res/layout/activity_main.xml,7/6/76b07e40f24cce093536731477540f12e7da3cb6
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+`
+0app/src/main/res/layout/main_activity_google.xml,1/2/120376e0d6b01177a883ba41d065ad1f1e20214a
+R
+"app/src/main/res/values/dimens.xml,c/3/c3c1811dec2dbad2deeafb9aad505ca9631da740
+R
+"app/src/main/res/values/colors.xml,9/6/969faa2a5d9f5e8390e958d2c07f2cfd54676e6b
+S
+#app/src/main/res/values/strings.xml,d/2/d2281fbb3027de2722081a53408dd77628bf080e
+q
+Aapp/src/main/java/current/location/sample/android/MainActivity.kt,8/8/885e89cbd9600eb06f2a21a56cf50496f543feb8
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+y
+Iapp/src/main/java/current/location/sample/android/MainActivityGoogle.java,c/1/c12599fe64c0ad7e775f559fbdad1c91591e94ee
